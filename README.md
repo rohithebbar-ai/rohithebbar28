@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Hebbar
 - 👀 I’m interested in Deep Learning and computer vision
-- 🌱 I’m currently studying MSc. Computer science at University of Freiburg
+- 🌱 I’m currently graduated from MSc. Computer science (specialisation in AI) at University of Freiburg
 - 📫 How to reach me at rohithebbar10@gmail.com
 
 <!---
